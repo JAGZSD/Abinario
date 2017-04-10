@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Arbolbinario.h
+Nodo.h
+../include/Nodo.h
+
+../include/Nodo.h
+iostream
+-
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 7/Arbolbinario/src/Arbolbinario.cpp
+Arbolbinario.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 7/Arbolbinario/src/Arbolbinario.h
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 7/Arbolbinario/src/Nodo.cpp
+Nodo.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 7/Arbolbinario/src/Nodo.h
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 7/Arbolbinario/src/main.cpp
+Arbolbinario.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 7/Arbolbinario/src/Arbolbinario.h
+
